@@ -1,6 +1,6 @@
 # Validación de formulario y simulación de envío
 
--Proyecto del curso de Juan Pablo de La Torre Valdez de JavaScript Moderno.
+-   Proyecto del curso de Juan Pablo de La Torre Valdez de JavaScript Moderno.
 
 -   Maquetado (html y css) desarrollado por Juan Pablo de la Torre Valdez.
 
